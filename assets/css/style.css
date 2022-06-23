@@ -889,6 +889,11 @@ a {
     text-decoration: none;
     color: #fff;
     font-size: 1.6rem;
+    opacity: 0.8;
+}
+
+.footer-list-item:hover a {
+    opacity: 1;
 }
 
 .footer-copyright {
