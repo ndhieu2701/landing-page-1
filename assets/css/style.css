@@ -467,7 +467,7 @@ a {
 
 .splide-slider {
     position: relative;
-    transform: translateY(-100px);
+    transform: translateY(-60px);
     padding-top: 140px;
     overflow-x: hidden;
     overflow-y: unset;
@@ -897,6 +897,6 @@ a {
 }
 
 .footer-copyright {
-    text-align: center;
-    padding-top: 40px;
+    /* text-align: center; */
+    padding: 80px 0 0 80px;
 }
